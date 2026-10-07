@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Badari Grand",
+  "description": "Experience comfortable stays, dining and memorable celebrations at Hotel Badari Grand. Explore our rooms, dining spaces and banquet facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
